@@ -14,3 +14,8 @@ int main()
 	
 	printf("angle3 = %d\n", angle3);
 }
+/*
+output :- enter value of angle165
+enter value of angle245
+angle3 = 70
+*/
