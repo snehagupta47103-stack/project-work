@@ -20,3 +20,13 @@ int main()
 	
 	printf("gross_salary = %d\n", gross_salary);
 }
+/*
+output:-
+enter value of base_salary100
+enter value of HRA10
+enter value of TA5
+enter value of DA8
+gross_salary = 123
+
+
+*/
