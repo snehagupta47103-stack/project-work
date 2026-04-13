@@ -9,3 +9,12 @@ int main()
 	}
 		while (ch <= 'Z');
 }
+/*
+OUTPUT :-A
+E
+I
+M
+Q
+U
+Y
+*/
