@@ -14,4 +14,8 @@ int main()
 	}
 		first = i;
 		printf("sum of the first and last digit: %d",first + last);
-}
+
+/*
+output :-enter any number:5436
+sum of the first and last digit: 11
+*/
