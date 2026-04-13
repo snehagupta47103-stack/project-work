@@ -13,3 +13,7 @@ int main()
 	}
 		printf("total number of digits : %d",a);
 }
+/*
+OUTPUT :-enter any number:56437
+total number of digits : 5
+*/
