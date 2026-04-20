@@ -32,3 +32,13 @@ int main()
     printf("the largest element is : %d\n", max);
 	
 }
+/*
+output :- 
+enter number of rows3
+enter number of columns3
+enter elements of the array
+1 2 3
+4 5 6
+7 8 9
+the largest element is : 9
+*/
