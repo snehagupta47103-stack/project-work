@@ -21,3 +21,13 @@ int main()
 		}
 	}
 }
+/*
+OUTPUT :-
+enter size of array 10
+enter elements
+1 -2 -3
+4 -6 -7
+-8 -9 -5
+10
+negative elements are-2-3-6-7-8-9-5
+*/
