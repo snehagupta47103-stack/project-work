@@ -34,3 +34,9 @@ int main()
 	else
 		printf("login failed. Invalid credentials");
 }
+/*
+output :-
+enter your emailsnehagupta@gmail.com
+enter your passwordsneha@029
+login failed. Invalid credentials
+*/
