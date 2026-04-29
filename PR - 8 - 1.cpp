@@ -9,3 +9,7 @@ int main(){
 	
 	printf("length of the string is: %d\n", length);
 }
+/*
+output :- 
+length of the string is: 11
+*/
