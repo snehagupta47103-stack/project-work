@@ -47,3 +47,74 @@ int main()
 		}
 	}
 }
+/*
+output :-
+
+ ---calculator---
+1. +
+2. -
+3. *
+4. /
+5. %
+0. Exit
+enter your choice 1
+enter two numbers2 3
+Result = 5.000000
+
+ ---calculator---
+1. +
+2. -
+3. *
+4. /
+5. %
+0. Exit
+enter your choice 3
+enter two numbers 6 8
+Result = 48.000000
+
+ ---calculator---
+1. +
+2. -
+3. *
+4. /
+5. %
+0. Exit
+enter your choice 5
+enter two numbers 3 9
+Result = 3
+
+ ---calculator---
+1. +
+2. -
+3. *
+4. /
+5. %
+0. Exit
+enter your choice 2
+enter two numbers 3 4
+Result = -1.000000
+
+ ---calculator---
+1. +
+2. -
+3. *
+4. /
+5. %
+0. Exit
+enter your choice 4
+enter two numbers 6 9
+Result = 0.666667
+
+ ---calculator---
+1. +
+2. -
+3. *
+4. /
+5. %
+0. Exit
+enter your choice 0
+program ended
+enter two numbers4 7
+invalid choice!
+
+*/
