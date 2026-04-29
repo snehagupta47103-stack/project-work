@@ -30,4 +30,18 @@ int main(){
 		printf("\n");
 	}
 }
+/*
+output :-
+enter array's size: 2
+enter array elements:
+a[0][0] = 1
+a[0][1] = 2
+a[1][0] = 3
+a[1][1] = 4
+
+cubes of all elements:
+1 8
+27 64
+
+*/
 	
