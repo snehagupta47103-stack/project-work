@@ -25,3 +25,16 @@ int main()
 		}
 	}
 }
+/*
+output :-
+enter any string snehagupta
+s = 1
+n = 1
+e = 1
+h = 1
+a = 2
+g = 1
+u = 1
+p = 1
+t = 1
+*/
