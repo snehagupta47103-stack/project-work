@@ -25,3 +25,9 @@ int main()
 	else
 	printf("the given string is NOT a Palindrome\n");
 }
+/*
+output :-
+enter any string
+Sneha Gupta
+the given string is NOT a Palindrome
+*/
